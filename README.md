@@ -8,9 +8,9 @@
 🟡 I’m currently learning Dart & Flutter, IA and IoT <br>
 🟢 Ask me about code, games, music, IoT, IA, Math and Physics<br>
 🔵 Fun fact: My last name means Two Hundreds<br>
-🟣 How to reach me: [hi@matiasdev30.dev](mailto:matiasdev30@gmail.com)
+🟣 How to reach me: [matiasdev30@gmail.com](mailto:matiasdev30@gmail.com)
 
-[![Follow me on Twitter](https://img.shields.io/twitter/follow/iam_matiasdev30?style=social)](https://twitter.com/mvni_null)
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/matiasdev30?style=social)](https://twitter.com/mvni_null)
 [![GitHub followers](https://img.shields.io/github/followers/matiasdev30?style=social)](https://github.com/matiasdev30)
 [![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/mvni-null-b92523197/)
 [![Subscribe Youtube](https://img.shields.io/badge/Youtube-informational?style=social&logo=youtube)](https://www.youtube.com/channel/UCmZjvDH4HNGAwW-wDAq6XNg)
