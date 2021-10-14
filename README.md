@@ -7,7 +7,6 @@
 🟠 I’m currently working on Flutter apps<br>
 🟡 I’m currently learning Dart & Flutter, IA and IoT <br>
 🟢 Ask me about code, games, music, IoT, IA, Math and Physics<br>
-🔵 Fun fact: My last name means Two Hundreds<br>
 🟣 How to reach me: [matiasdev30@gmail.com](mailto:matiasdev30@gmail.com)
 
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/mvni_null?style=social)](https://twitter.com/mvni_null)
@@ -15,7 +14,12 @@
 [![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/mvni-null-b92523197/)
 [![Subscribe Youtube](https://img.shields.io/badge/Youtube-informational?style=social&logo=youtube)](https://www.youtube.com/channel/UCmZjvDH4HNGAwW-wDAq6XNg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiasdev30&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasdev30&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api?username=matiasdev30&&show_icons=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=151515">
 
-![Profile views](https://gpvc.arturio.dev/matiasdev30)
+**Languages and Tools:**  
+
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
