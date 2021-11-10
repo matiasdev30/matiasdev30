@@ -9,7 +9,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" />
 
 ✔ I am currently learning about ** machine learning and IoT ** <br>
-✔ I plan to collaborate with any ** open source Fluter project ** <br>
+✔ I plan to collaborate with any ** open source Flutter project ** <br>
 ✔ Ask what you want <br>
 ✔ Curiosity: * I love everything that passes electric current *
 
