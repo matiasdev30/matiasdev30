@@ -10,8 +10,6 @@
   </em>
 </p>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" />
-
 ✔ I am currently learning about ** machine learning and IoT ** <br>
 ✔ I plan to collaborate with any ** open source Flutter project ** <br>
 ✔ Ask what you want <br>
@@ -19,8 +17,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank">  </a> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>   </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="xd" width="40" height="40"/>  </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="xd" width="40" height="40"/>    </a> </p>
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
  
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/mvni_null?style=social)](https://twitter.com/mvni_null)
 [![GitHub followers](https://img.shields.io/github/followers/matiasdev30?style=social)](https://github.com/matiasdev30)
