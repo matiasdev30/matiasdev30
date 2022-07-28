@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    I'm a <b>programmer</b>, focused on IoT, AI, Flutter, Pentest <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> , lover of physics and math and design enthusiast,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="40px">  <b>obsessed</b> with exploring the mysteries of the universe, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> eradicating and becoming the closest to a God <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" />.
+    I'm a <b>programmer</b>, focused on IoT, AI, Flutter, Pentest <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> , lover of physics and math and design enthusiast,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="40px">  <b>obsessed</b> with exploring the mysteries of the universe, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> eradicating and becoming the closest to a God.
   </em>
 </p>
 
