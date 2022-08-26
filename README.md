@@ -11,7 +11,7 @@
 </p>
 
 ✔ I am currently learning about ** machine learning and IoT ** <br>
-✔ I plan to collaborate with any ** open source Flutter project ** <br>
+✔ I plan to collaborate with any ** open source project ** <br>
 ✔ Ask what you want <br>
 ✔ Curiosity: * I love everything that passes electric current *
 
