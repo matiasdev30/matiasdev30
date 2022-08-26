@@ -22,4 +22,4 @@
 [![GitHub followers](https://img.shields.io/github/followers/matiasdev30?style=social)](https://github.com/matiasdev30)
 [![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/iam-matiasdev30/) 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiasdev30&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0D1117,0D1117,405de6&title_color=ffffff) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiasdev30&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0D1117,0D1117,405de6&title_color=ffffff) 
