@@ -1,26 +1,7 @@
 ### Hi, 🏂🏾 I'm Matias Fernando, better known as Mvni Null
 
-![age](https://img.shields.io/badge/age-21-blue)
+![age](https://img.shields.io/badge/age-24-red)
 ![focus](https://img.shields.io/badge/focus-IA-brightgreen)
-
-<p>
-  <em>
-    I'm a <b>programmer</b>, focused on IoT, AI, Flutter, Pentest, lover of physics and math, and design enthusiast. I am <b>obsessed</b> with exploring the mysteries of the universe, eradicating and becoming the closest to a God.
-  </em>
-</p>
-
-✔ I am currently learning about **machine learning and IoT** <br>
-✔ I plan to collaborate with any **open source project** <br>
-✔ Ask what you want <br>
-✔ Curiosity: *I love everything that passes electric current*
-
----
-
-### About Me
-
-I am a Senior Mobile Engineer and Full-Stack Developer with over 8 years of experience in the software development market. I specialize in developing systems, mobile applications (Android and iOS), RESTful APIs, gRPC, microservices, WebRTC services, and design systems. I also have extensive experience in implementing and maintaining infrastructure using DevOps tools, Java, Python, and Flutter.
-
-Currently, I am using Kotlin and frameworks like Spring and Ktor, as well as Node.js. I have completed a training program in Node.js, TypeScript, TDD, DDD, Clean Architecture, and SOLID principles.
 
 ---
 
@@ -48,6 +29,14 @@ Currently, I am using Kotlin and frameworks like Spring and Ktor, as well as Nod
 </p>
 
 ---
+
+### About Me
+
+I am a Senior Mobile Engineer and Full-Stack Developer with over 8 years of experience in the software development market. I specialize in developing systems, mobile applications (Android and iOS), RESTful APIs, gRPC, microservices, WebRTC services, and design systems. I also have extensive experience in implementing and maintaining infrastructure using DevOps tools, Java, Python, and Flutter.
+
+Currently, I am using Kotlin and frameworks like Spring and Ktor, as well as Node.js. I have completed a training program in Node.js, TypeScript, TDD, DDD, Clean Architecture, and SOLID principles.
+
+
 
 ### Follow Me
 
